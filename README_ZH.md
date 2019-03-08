@@ -11,7 +11,14 @@
  
 ### 测试结果 
 #### 原始图像
+![](https://github.com/Soptq/waifu_recognition/blob/master/test_images/image1.jpg)
+![](https://github.com/Soptq/waifu_recognition/blob/master/test_images/image2.jpg)
+![](https://github.com/Soptq/waifu_recognition/blob/master/test_images/image3.jpg)
+![](https://github.com/Soptq/waifu_recognition/blob/master/test_images/image4.jpg)
 #### 预测图像
-#### 正确图像
+![](https://github.com/Soptq/waifu_recognition/blob/master/test_images/0.jpg)
+![](https://github.com/Soptq/waifu_recognition/blob/master/test_images/1.jpg)
+![](https://github.com/Soptq/waifu_recognition/blob/master/test_images/2.jpg)
+![](https://github.com/Soptq/waifu_recognition/blob/master/test_images/3.jpg)
 
 
