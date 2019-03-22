@@ -1,6 +1,6 @@
 # waifu_recognition
 
-[English](https://github.com/Soptq/waifu_recognition/blob/master/README.md) [中文版](https://github.com/Soptq/waifu_recognition/blob/master/README_ZH.md)
+[English](https://github.com/Soptq/waifu_recognition/blob/master/README.md) [中文版](https://github.com/Soptq/waifu_recognition/blob/master/README_ZH.md) [Demo](https://soptq.me/waifu_recognition_demo/)
 
 Detect faces and key points of anime characters 
 
